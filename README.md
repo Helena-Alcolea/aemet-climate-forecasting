@@ -24,7 +24,7 @@ solar radiation, altitude and geographic coordinates.
 
 ## Project Phases
 
-**Phase 1 — EDA & Station Selection** 
+**Phase 1 — EDA & Station Selection** <br>
 Exploratory analysis of the full dataset. Selection of stations with 
 continuous records since 1991 and less than 10% missing data, following 
 WMO quality standards. Spatial and temporal characterisation of temperature 
